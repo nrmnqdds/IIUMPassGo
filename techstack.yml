@@ -2,7 +2,7 @@ repo_name: nrmnqdds/IIUMPassGo
 report_id: 5934e020dea0703fe7e1a1f0fd478ed0
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-31T05:23:31+00:00'
+timestamp: '2024-01-05T08:13:29+00:00'
 requested_by: PlashSpeed-Aiman
 provider: github
 branch: master
@@ -18,6 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/nrmnqdds/IIUMPassGo
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -27,6 +28,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/nrmnqdds/IIUMPassGo
   detection_source: Repo Metadata
 - name: sys
   description: Go packages for low-level interaction with the operating system
